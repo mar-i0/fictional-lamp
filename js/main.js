@@ -451,109 +451,334 @@ initPlayer('.player8', {
 });
 
 
+initPlayer('.player9', {
+    audioSrc: '09 consejosparamantenerestilovidasano-hombrelibre-ivoox39757736.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Consejos para mantener un estilo de vida sano'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player10', {
+    audioSrc: '10 cuandomujerestebuscana30-hombrelibre-ivoox39758035.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Cuando las mujeres te buscan a los 30'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
 
 
-09 consejosparamantenerestilovidasano-hombrelibre-ivoox39757736.mp3
-10 cuandomujerestebuscana30-hombrelibre-ivoox39758035.mp3
-100 - mujereshombresnosomoscompatibles-hombrelibre-ivoox47567697.mp3
-101 - neopodcast1-hombrelibre-ivoox46129579.mp3
-102 - neopodcast2-hombrelibre-ivoox46129626.mp3
-103 - neopodcast3-hombrelibre-ivoox46129677.mp3
-104 - neopodcast4-hombrelibre-ivoox46129701.mp3
-105 - neopodcast5-hombrelibre-ivoox46129710.mp3
-106 - neopodcast6-hombrelibre-ivoox46129726.mp3
-107 - quehapasadocomunidadmgtowhl-hombrelibre-ivoox47406865.mp3
-11 valormercadosexual-hombrelibre-ivoox39758485.mp3
-12 ellanotevaaamar-hombrelibre-ivoox39758890.mp3
-13 ellasseodianasimismas-hombrelibre-ivoox39759291.mp3
-14 estacompletamentebiennosermgtowten-hombrelibre-ivoox39759515.mp3
-15 evitaamadressolteras-hombrelibre-ivoox39759684.mp3
-16 hemostenidomalospadres-hombrelibre-ivoox39759945.mp3
-17 crudaverdadacercadiscotecas-hombrelibre-ivoox39760263.mp3
-18 culturavi0lacionesrealmgtow-hombrelibre-ivoox39760472.mp3
-19 falsadeidadfemenina-hombrelibre-ivoox39760721.mp3
-20 ideologiagenerocomometodocontrol-hombrelibre-ivoox39760935.mp3
-21 independenciareal-hombrelibre-ivoox39761185.mp3
-22 mujerunicornionawalt-hombrelibre-ivoox39761545.mp3
-23 prostitucionreguladaesbeneficiosapar-hombrelibre-ivoox39761809.mp3
-24 realidadcosas-hombrelibre-ivoox39788610.mp3
-25 teoriatelegonia-hombrelibre-ivoox39789296.mp3
-26 mujeresintegranadnsushijos-hombrelibre-ivoox39789692.mp3
-27 mujeresodianserignoradas-hombrelibre-ivoox39790023.mp3
-28 lopiensanmujerescuandoseestampan-hombrelibre-ivoox39790278.mp3
-29 hombresherviborosjaponeses-hombrelibre-ivoox39790640.mp3
-30 mgtowesrealidadnomovimiento-hombrelibre-ivoox39795032.mp3
-31 miraamujeresloson-hombrelibre-ivoox39795243.mp3
-32 motivacionmgtow-hombrelibre-ivoox39795726.mp3
-33 mujereslesbianasbisexuales-hombrelibre-ivoox39796047.mp3
-34 comoconocermujeresa20-hombrelibre-ivoox39796388.mp3
-35 comofuncionasistema-hombrelibre-ivoox39796562.mp3
-36 quesorprendemasahombresacercade-hombrelibre-ivoox39796818.mp3
-37 enemigodelmgtow-hombrelibre-ivoox39797034.mp3
-38 bellezamujeres-hombrelibre-ivoox39797367.mp3
-39 mgtowteestaarruinandovida-hombrelibre-ivoox39797954.mp3
-40 nopaguestragosocena-hombrelibre-ivoox39798428.mp3
-41 pildoritarojaparainfiltrados-hombrelibre-ivoox39799259.mp3
-42 tardeotempranomurollegara-hombrelibre-ivoox39805130.mp3
-43 yonosesiesehijoesmio-hombrelibre-ivoox39805298.mp3
-44 pruebasmierda-hombrelibre-ivoox39805397.mp3
-45 queridochicobuenoantesnoestabalist-hombrelibre-ivoox39805576.mp3
-46 recuerdosbaulchemorpheusneo-hombrelibre-ivoox39806041.mp3
-47 resenaelvarondomadoesthervilar-hombrelibre-ivoox39806353.mp3
-48 tomleykiscuandomujeresseestampanconelmuro-hombrelibre-ivoox39806450.mp3
-49 tomacontrolsobretusmiedostusinsegu-hombrelibre-ivoox39806947.mp3
-50 yanoexistenhombresbuenos-hombrelibre-ivoox39807522.mp3
-51 deberiaserasi-hombrelibre-ivoox40028122.mp3
-52 despertandoahombres-hombrelibre-ivoox40051449.mp3
-53 pormujeresodiancristianismo-hombrelibre-ivoox40051742.mp3
-54 queesloquierenmujeres-hombrelibre-ivoox40052019.mp3
-55 queotorganrelacionescomprometidas-hombrelibre-ivoox40055679.mp3
-56 sociopatiafemenina-hombrelibre-ivoox40055805.mp3
-57 wgtow-hombrelibre-ivoox40055918.mp3
-58 amornuncaestuvoahi-hombrelibre-ivoox40056813.mp3
-59 todasmujeressonputasoriginal-hombrelibre-ivoox42255699.mp3
-60 argumentoemocionalentoncestumadrees-hombrelibre-ivoox42377795.mp3
-61 respuestaparasubscriptorjm-hombrelibre-ivoox42378889.mp3
-62 comocombatirsoledad-hombrelibre-ivoox42379462.mp3
-63 comodeboeducaramihija-hombrelibre-ivoox42379807.mp3
-64 congresistacostarricencerelatasudivo-hombrelibre-ivoox42379880.mp3
-65 despotriqueinminente-hombrelibre-ivoox42379941.mp3
-66 directosobreinfiltradosfilosofiamgto-hombrelibre-ivoox42380062.mp3
-67 directochemorpheusoyemgtow-hombrelibre-ivoox42544916.mp3
-68 hombrepildoraazul-hombrelibre-ivoox42544961.mp3
-69 plankalergi-hombrelibre-ivoox42588690.mp3
-70 pornomasturbacion-hombrelibre-ivoox42588879.mp3
-71 esmgtowparteconspiracioni-hombrelibre-ivoox42588943.mp3
-72 esmgtowparteconspiracionii-hombrelibre-ivoox42589040.mp3
-73 esmgtowparteconspiracioniii-hombrelibre-ivoox42589091.mp3
-74 esnormalefebofilia-hombrelibre-ivoox42591760.mp3
-75 hombresbuscavalidacionfemenina-hombrelibre-ivoox42647437.mp3
-76 hombressigma-hombrelibre-ivoox42647461.mp3
-77 inteligenciamaculina-hombrelibre-ivoox42932645.mp3
-78 j peterson hipergamia mgtow-hombrelibre-ivoox42960525.mp3
-79 gavinmcinnesdagiro180grados-hombrelibre-ivoox42960589.mp3
-80 crudaverdadacercadelbitcoin-hombrelibre-ivoox42960688.mp3
-81 modelosinstagrami-hombrelibre-ivoox42960786.mp3
-82 matriarcadosegunrobertbriffault-hombrelibre-ivoox42960746.mp3
-83 modelosinstagramii-hombrelibre-ivoox42960819.mp3
-84 mujeresvstrans-hombrelibre-ivoox42960878.mp3
-85 noteapeguesamujerdepende-hombrelibre-ivoox42960907.mp3
-86 nohaylideresmgtowrespuestaafidelio-hombrelibre-ivoox42960940.mp3
-87 notuvosexoporquenoquisomandarmeun-hombrelibre-ivoox42961021.mp3
-88 antifeministas-hombrelibre-ivoox42961069.mp3
-89 mujeresactivistasderechoshombres-hombrelibre-ivoox42961099.mp3
-90 mujeresrobotsinteligenciaartificialu-hombrelibre-ivoox42961139.mp3
-91 sinceridademocional-hombrelibre-ivoox42961189.mp3
-92 directolacrudaverdadi-hombrelibre-ivoox42961244.mp3
-93 directolacrudaverdadii-hombrelibre-ivoox42961309.mp3
-94 directocelebrando4milsuscriptores-hombrelibre-ivoox42961392.mp3
-95 advertencianeopodcast6-hombrelibre-ivoox46129737.mp3
-96 hablemosrealidad-hombrelibre-ivoox46672207.mp3
-97 lopiensanmujeresdelatractivofisico-hombrelibre-ivoox46966502.mp3
-98 hombrealfavselhombrebeta-hombrelibre-ivoox47020862.mp3
-99 alfaelbetamujer-hombrelibre-ivoox47198354.mp3
+initPlayer('.player11', {
+    audioSrc: '11 valormercadosexual-hombrelibre-ivoox39758485.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Valor de mercado social'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player12', {
+    audioSrc: '12 ellanotevaaamar-hombrelibre-ivoox39758890.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Ella no te va a amar'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
 
 
+initPlayer('.player13', {
+    audioSrc: '13 ellasseodianasimismas-hombrelibre-ivoox39759291.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Ellas se odian así mismas'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player14', {
+    audioSrc: '14 estacompletamentebiennosermgtowten-hombrelibre-ivoox39759515.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Está completamente bien NO ser MGTOW'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player15', {
+    audioSrc: '15 evitaamadressolteras-hombrelibre-ivoox39759684.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Evita a las madres solteras'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player16', {
+    audioSrc: '16 hemostenidomalospadres-hombrelibre-ivoox39759945.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Cuando hemos tenido malos padres...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player17', {
+    audioSrc: '17 crudaverdadacercadiscotecas-hombrelibre-ivoox39760263.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La cruda verdad acerca de las discotecas'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player18', {
+    audioSrc: '18 culturavi0lacionesrealmgtow-hombrelibre-ivoox39760472.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La cultura de las violaciones'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player19', {
+    audioSrc: '19 falsadeidadfemenina-hombrelibre-ivoox39760721.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La falsa deidad femenina'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+
+initPlayer('.player20', {
+    audioSrc: '20 ideologiagenerocomometodocontrol-hombrelibre-ivoox39760935.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Ideología de género (y control)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player21', {
+    audioSrc: '21 independenciareal-hombrelibre-ivoox39761185.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Independencia real del hombre libre'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player22', {
+    audioSrc: '22 mujerunicornionawalt-hombrelibre-ivoox39761545.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La mujer unicornio (NAWALT)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player23', {
+    audioSrc: '23 prostitucionreguladaesbeneficiosapar-hombrelibre-ivoox39761809.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La prostitución regulada es buena para el hombre'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player24', {
+    audioSrc: '24 realidadcosas-hombrelibre-ivoox39788610.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La realidad de las cosas'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player25', {
+    audioSrc: '25 teoriatelegonia-hombrelibre-ivoox39789296.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Teoria sobre la Telegonia'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player26', {
+    audioSrc: '26 mujeresintegranadnsushijos-hombrelibre-ivoox39789692.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres integran a sus hijos'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player27', {
+    audioSrc: '27 mujeresodianserignoradas-hombrelibre-ivoox39790023.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Las mujeres odian ser ignoradas'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player28', {
+    audioSrc: '28 lopiensanmujerescuandoseestampan-hombrelibre-ivoox39790278.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Lo que piensan las mujeres cuando se estampan contra el muro'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player29', {
+    audioSrc: '29 hombresherviborosjaponeses-hombrelibre-ivoox39790640.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Los hombres hervíboros japoneses'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player30', {
+    audioSrc: '30 mgtowesrealidadnomovimiento-hombrelibre-ivoox39795032.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La filosofia MGTOW es una realidad'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player31', {
+    audioSrc: '31 miraamujeresloson-hombrelibre-ivoox39795243.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mira a las mujeres por lo que son'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player32', {
+    audioSrc: '32 motivacionmgtow-hombrelibre-ivoox39795726.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Motivación MGTOW'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player33', {
+    audioSrc: '33 mujereslesbianasbisexuales-hombrelibre-ivoox39796047.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres Lesbianas Bisexuales'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player34', {
+    audioSrc: '34 comoconocermujeresa20-hombrelibre-ivoox39796388.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Como conocer mujeres a los 20'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player35', {
+    audioSrc: '35 comofuncionasistema-hombrelibre-ivoox39796562.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Como funciona el sistema'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player36', {
+    audioSrc: '36 quesorprendemasahombresacercade-hombrelibre-ivoox39796818.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Qué sorprende más a los hombres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
 
 
 
