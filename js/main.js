@@ -358,10 +358,10 @@ function getStyle(el, style) {
     return styles.getPropertyValue(style);
 }
 
-initPlayer('.player-one', {
+initPlayer('.player1', {
     audioSrc: '01 todasmujeressonedicionespecial-hombrelibre-ivoox39753208.mp3',
-    imageSrc: 'img/1.jpg',
-    title: 'Neo Oculorum / Advent)',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
     date: '22.05.2020',
     description: 'Todas las mujeres son... (Edición especial)'
 }, {
@@ -371,17 +371,13 @@ initPlayer('.player-one', {
 
 
 
-
-
-initPlayer('.player-two', {
-    audioSrc: 'songs/2.mp3',
-    imageSrc: 'img/2.jpg',
-    title: 'Gunnar Olsen – Flood Gates ',
-    date: '24.07.2016',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+initPlayer('.player2', {
+    audioSrc: '02 comoencontrarsitunoviaesposateest-hombrelibre-ivoox39753481.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Como saber si tu novia/esposa te está engañando'
 }, {
     on: true,
-    bg: '#ecf0f1',
-    textColor: '#000',
-    lineColor: '#2ecc71'
+    lineColor: '#e74c3c'
 });
