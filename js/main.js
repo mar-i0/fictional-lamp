@@ -780,6 +780,100 @@ initPlayer('.player36', {
     lineColor: '#e74c3c'
 });
 
+initPlayer('.player37', {
+    audioSrc: '37 enemigodelmgtow-hombrelibre-ivoox39797034.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El enemigo del MGTOW'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player38', {
+    audioSrc: '38 bellezamujeres-hombrelibre-ivoox39797367.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La belleza de las mujeres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player39', {
+    audioSrc: '39 mgtowteestaarruinandovida-hombrelibre-ivoox39797954.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El MGTOW te está arruinando la vida'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player40', {
+    audioSrc: '40 nopaguestragosocena-hombrelibre-ivoox39798428.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Deja de invitar a cubatas a las mujeres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player41', {
+    audioSrc: '41 pildoritarojaparainfiltrados-hombrelibre-ivoox39799259.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Pildorita roja para los infiltrados'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player42', {
+    audioSrc: '42 tardeotempranomurollegara-hombrelibre-ivoox39805130.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Tarde o temprano el muro llegará'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player43', {
+    audioSrc: '43 yonosesiesehijoesmio-hombrelibre-ivoox39805298.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Yo no sé, si ese hijo es mio...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player44', {
+    audioSrc: '44 pruebasmierda-hombrelibre-ivoox39805397.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Las mujeres y sus pruebas de mierda'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+
+
 
 
 
