@@ -1,0 +1,72 @@
+.panels .share-social-links {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    height: 48px;
+    margin: 0 5px;
+    position: relative;
+    width: 48px;
+
+    &:hover:after {
+      background: rgba(0, 0, 0, 0.2);
+      bottom: 0;
+      content: '';
+      display: block;
+      height: 5px;
+      position: absolute;
+      width: 100%;
+      z-index: 10;
+    }
+  }
+
+  a {
+    @extend .icon;
+
+    color: transparent;
+    display: block;
+    font-size: 1px;
+    letter-spacing: -1px;
+    position: relative;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  a:before {
+    border-radius: 3px;
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: normal;
+    top: 8px;
+    position: relative;
+  }
+
+  .share-link-facebook:before {
+    background: rgb(59, 89, 152);
+    content: $icon-facebook;
+    padding: 8px 14px;
+  }
+
+  .share-link-twitter:before {
+    background: rgb(0, 172, 237);
+    content: $icon-twitter;
+    padding: 8px 9px;
+  }
+
+  .share-link-whatsapp:before {
+    background: rgb(67, 216, 84);
+    content: $icon-whatsapp;
+    padding: 8px 10px;
+  }
+
+  .share-link-email:before {
+    background: rgb(153, 153, 153);
+    content: $icon-mail-outline;
+    padding: 8px 8px;
+  }
+}

@@ -1,0 +1,114 @@
+.play-button {
+  @extend .icon;
+  @extend .icon-play;
+}
+
+.playing .play-button {
+  @extend .icon-pause;
+}
+
+.loading .play-button {
+  &:before {
+    content: '';
+  }
+
+  & {
+    animation: sk-scaleout 1.0s infinite ease-in-out;
+    -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
+    background-color: #666;
+    border-radius: 100%;
+  }
+
+  @-webkit-keyframes sk-scaleout {
+    0% { -webkit-transform: scale(0) }
+    100% {
+      -webkit-transform: scale(1.0);
+      opacity: 0;
+    }
+  }
+
+  @keyframes sk-scaleout {
+    0% { 
+      -webkit-transform: scale(0);
+      transform: scale(0);
+    } 100% {
+      -webkit-transform: scale(1.0);
+      transform: scale(1.0);
+      opacity: 0;
+    }
+  }
+}
+
+.error-loading .play-button {
+  @extend .icon-error_outline;
+
+  color: red !important;
+  font-size: 36px !important;
+}
+
+.backward-button {
+  @extend .icon;
+  @extend .icon-backward-10;
+}
+
+.forward-button {
+  @extend .icon;
+  @extend .icon-forward-30;
+}
+
+.skip-backward-button {
+  @extend .icon;
+  @extend .icon-skip-previous;
+}
+
+.skip-forward-button {
+  @extend .icon;
+  @extend .icon-skip-next;
+}
+
+.chaptermarks-button {
+  @extend .icon;
+  @extend .icon-chaptermarks;
+}
+
+.download-button {
+  @extend .icon;
+  @extend .icon-download;
+}
+
+.episode-info-button {
+  @extend .icon;
+  @extend .icon-episode-info;
+}
+
+.playlist-button {
+  @extend .icon;
+  @extend .icon-playlist;
+}
+
+.share-button {
+  @extend .icon;
+  @extend .icon-share;
+}
+
+.transcript-button {
+  @extend .icon;
+  @extend .icon-transcript;
+}
+
+.search-result-next {
+  @extend .icon;
+  @extend .icon-keyboard_arrow_right;
+}
+
+.search-result-prev {
+  @extend .icon;
+  @extend .icon-keyboard_arrow_left;
+}
+
+button.progress-bar-time-played {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
