@@ -872,6 +872,732 @@ initPlayer('.player44', {
 });
 
 
+initPlayer('.player45', {
+    audioSrc: '45 queridochicobuenoantesnoestabalist-hombrelibre-ivoox39805576.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Querido chico bueno...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player46', {
+    audioSrc: '46 recuerdosbaulchemorpheusneo-hombrelibre-ivoox39806041.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Recuerdos desde el baul a Che Morpheus'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player47', {
+    audioSrc: '47 resenaelvarondomadoesthervilar-hombrelibre-ivoox39806353.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Reseña a el varón domado de Esther Vilar'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player48', {
+    audioSrc: '48 tomleykiscuandomujeresseestampanconelmuro-hombrelibre-ivoox39806450.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Tom Leykis: Cuando las mujeres se estampan contra el muro'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player49', {
+    audioSrc: '49 tomacontrolsobretusmiedostusinsegu-hombrelibre-ivoox39806947.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Toma control sobre tus miedos e inseguridades'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player50', {
+    audioSrc: '50 yanoexistenhombresbuenos-hombrelibre-ivoox39807522.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Ya no existen hombres buenos? No me jodas...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player51', {
+    audioSrc: '51 deberiaserasi-hombrelibre-ivoox40028122.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Deberías ser así'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player52', {
+    audioSrc: '52 despertandoahombres-hombrelibre-ivoox40051449.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Despertando a los hombres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player53', {
+    audioSrc: '53 pormujeresodiancristianismo-hombrelibre-ivoox40051742.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Las mujeres odian al Cristianismo'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player54', {
+    audioSrc: '54 queesloquierenmujeres-hombrelibre-ivoox40052019.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Qué es lo que quieren las mujeres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player55', {
+    audioSrc: '55 queotorganrelacionescomprometidas-hombrelibre-ivoox40055679.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Qué otorgan a un hombre las relaciones comprometidas?'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player56', {
+    audioSrc: '56 sociopatiafemenina-hombrelibre-ivoox40055805.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Sociopatía Femenina'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player57', {
+    audioSrc: '57 wgtow-hombrelibre-ivoox40055918.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'MGTOW Hombre Libre'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player58', {
+    audioSrc: '58 amornuncaestuvoahi-hombrelibre-ivoox40056813.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El amor nunca estuvo ahí'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player59', {
+    audioSrc: '59 todasmujeressonputasoriginal-hombrelibre-ivoox42255699.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Todas las mujeres son...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player60', {
+    audioSrc: '60 argumentoemocionalentoncestumadrees-hombrelibre-ivoox42377795.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Todas las mujeres son...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player61', {
+    audioSrc: '61 respuestaparasubscriptorjm-hombrelibre-ivoox42378889.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Respuesta al suscriptor JM'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player62', {
+    audioSrc: '62 comocombatirsoledad-hombrelibre-ivoox42379462.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Como combatir la soledad'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player63', {
+    audioSrc: '63 comodeboeducaramihija-hombrelibre-ivoox42379807.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Como educar a mi hija'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player64', {
+    audioSrc: '64 congresistacostarricencerelatasudivo-hombrelibre-ivoox42379880.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'congresista Costaricense relata su divorcio (desgarrador)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player65', {
+    audioSrc: '65 despotriqueinminente-hombrelibre-ivoox42379941.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Despotrique inminente'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player66', {
+    audioSrc: '66 directosobreinfiltradosfilosofiamgto-hombrelibre-ivoox42380062.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Directo sobre infiltrados en la filosofía MGTOW'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player67', {
+    audioSrc: '67 directochemorpheusoyemgtow-hombrelibre-ivoox42544916.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Directo Che Morpheus y MGTOW'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player68', {
+    audioSrc: '68 hombrepildoraazul-hombrelibre-ivoox42544961.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Hombre pildora azul'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player69', {
+    audioSrc: '69 plankalergi-hombrelibre-ivoox42588690.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Plan Kalergi'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player70', {
+    audioSrc: '70 pornomasturbacion-hombrelibre-ivoox42588879.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El porno y la masturbación'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player71', {
+    audioSrc: '71 esmgtowparteconspiracioni-hombrelibre-ivoox42588943.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Es MGTOW parte de una conspiración?'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player72', {
+    audioSrc: '72 esmgtowparteconspiracionii-hombrelibre-ivoox42589040.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Es MGTOW parte de una conspiración? (segunda parte)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player73', {
+    audioSrc: '73 esmgtowparteconspiracioniii-hombrelibre-ivoox42589091.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Es MGTOW parte de una conspiración? (tercera parte)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player74', {
+    audioSrc: '74 esnormalefebofilia-hombrelibre-ivoox42591760.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Es normal la efebofilia?'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player75', {
+    audioSrc: '75 hombresbuscavalidacionfemenina-hombrelibre-ivoox42647437.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Los hombres buscan validación femenina'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player76', {
+    audioSrc: '76 hombressigma-hombrelibre-ivoox42647461.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Hombres Sigma'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player77', {
+    audioSrc: '77 inteligenciamaculina-hombrelibre-ivoox42932645.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Inteligencia Masculina'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player78', {
+    audioSrc: '78 j peterson hipergamia mgtow-hombrelibre-ivoox42960525.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Jordan Peterson: Hipergamia'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player79', {
+    audioSrc: '79 gavinmcinnesdagiro180grados-hombrelibre-ivoox42960589.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Gavin Mcinnes da giro 180 grados'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player80', {
+    audioSrc: '80 crudaverdadacercadelbitcoin-hombrelibre-ivoox42960688.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'La cruda verdad acerca del bitcoin'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player81', {
+    audioSrc: '81 modelosinstagrami-hombrelibre-ivoox42960786.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Modelos Instagram'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player82', {
+    audioSrc: '82 matriarcadosegunrobertbriffault-hombrelibre-ivoox42960746.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El matriarcado segun Robert Briffault'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player83', {
+    audioSrc: '83 modelosinstagramii-hombrelibre-ivoox42960819.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Modelos de instagram (segunda parte)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player84', {
+    audioSrc: '84 mujeresvstrans-hombrelibre-ivoox42960878.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres vs Trans'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player85', {
+    audioSrc: '85 noteapeguesamujerdepende-hombrelibre-ivoox42960907.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres vs Trans'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player86', {
+    audioSrc: '86 nohaylideresmgtowrespuestaafidelio-hombrelibre-ivoox42960940.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'No hay lideres MGTOW (Respuesta a Fidelio)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player87', {
+    audioSrc: '87 notuvosexoporquenoquisomandarmeun-hombrelibre-ivoox42961021.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'No tuvo sexo porque...'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player88', {
+    audioSrc: '88 antifeministas-hombrelibre-ivoox42961069.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Antifeministas'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player89', {
+    audioSrc: '89 mujeresactivistasderechoshombres-hombrelibre-ivoox42961099.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres activistas derechos de los hombres'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player90', {
+    audioSrc: '90 mujeresrobotsinteligenciaartificialu-hombrelibre-ivoox42961139.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Mujeres y robots con inteligencia artificial'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player91', {
+    audioSrc: '91 sinceridademocional-hombrelibre-ivoox42961189.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Sinceridad emocional'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player92', {
+    audioSrc: '92 directolacrudaverdadi-hombrelibre-ivoox42961244.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Directo la crudad verdad (primera parte)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player93', {
+    audioSrc: '93 directolacrudaverdadii-hombrelibre-ivoox42961309.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Directo la crudad verdad (segunda parte)'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player94', {
+    audioSrc: '94 directocelebrando4milsuscriptores-hombrelibre-ivoox42961392.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Directo celebrando 4000 suscriptores'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player95', {
+    audioSrc: '95 advertencianeopodcast6-hombrelibre-ivoox46129737.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Advertencia Neo Podcast'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player96', {
+    audioSrc: '96 hablemosrealidad-hombrelibre-ivoox46672207.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Hablemos de la realidad'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player97', {
+    audioSrc: '97 lopiensanmujeresdelatractivofisico-hombrelibre-ivoox46966502.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Lo que piensan las mujeres del atractivo físico'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player98', {
+    audioSrc: '98 hombrealfavselhombrebeta-hombrelibre-ivoox47020862.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Hombres Alfa vs Hombres Beta'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player99', {
+    audioSrc: '99 alfaelbetamujer-hombrelibre-ivoox47198354.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'El Alfa, el Beta y la mujer'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player100', {
+    audioSrc: '100 - mujereshombresnosomoscompatibles-hombrelibre-ivoox47567697.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Las mujeres y los hombres no somos compatibles'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player101', {
+    audioSrc: '101 - neopodcast1-hombrelibre-ivoox46129579.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 1'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player102', {
+    audioSrc: '102 - neopodcast2-hombrelibre-ivoox46129626.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 2'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player103', {
+    audioSrc: '103 - neopodcast3-hombrelibre-ivoox46129677.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 3'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player104', {
+    audioSrc: '104 - neopodcast4-hombrelibre-ivoox46129701.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 4'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player105', {
+    audioSrc: '105 - neopodcast5-hombrelibre-ivoox46129710.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 5'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+initPlayer('.player106', {
+    audioSrc: '106 - neopodcast6-hombrelibre-ivoox46129726.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: 'Neo Podcast 6'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
+initPlayer('.player107', {
+    audioSrc: '107 - quehapasadocomunidadmgtowhl-hombrelibre-ivoox47406865.mp3',
+    imageSrc: 'img/redpill.jpg',
+    title: 'Neo Oculorum / Advent',
+    date: '22.05.2020',
+    description: '¿Qué ha pasado con la comunidad MGTOW?'
+}, {
+    on: true,
+    lineColor: '#e74c3c'
+});
+
+
 
 
 
